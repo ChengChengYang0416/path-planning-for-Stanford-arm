@@ -5,12 +5,12 @@
 0 & 0 & -1 & 10\\
 -1 & 0 & 0 & -10\\
 0 & 0 & 0 & 1
-\end{array}\right]$,B=\left[\begin{array}{cccc}
+\end{array}\right]$,$B=\left[\begin{array}{cccc}
 -1 & 0 & 0 & 20\\
 0 & -1 & 0 & -5\\
 0 & 0 & 1 & 10\\
 0 & 0 & 0 & 1
-\end{array}\right],C=\left[\begin{array}{cccc}
+\end{array}\right]$,$C=\left[\begin{array}{cccc}
 1 & 0 & 0 & -10\\
 0 & 0 & -1 & 15\\
 0 & 1 & 0 & 25\\
